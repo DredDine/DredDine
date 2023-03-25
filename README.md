@@ -7,10 +7,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+DredDine....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-<h5 align="center">
-  
-[![My Discord](https://discord-readme-badge.vercel.app/api?id=772545220440227850)](https://discord.com/users/772545220440227850)
-</h5>
+<p align="center">
+
+<a href="https://discords.com/bio/p/Dred">
+  <img src="https://lanyard.cnrad.dev/api/772545220440227850?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
+</a>
+
+</p>
 
 <h5 align="center">⚡ Stats ⚡</h5>
 <br>
